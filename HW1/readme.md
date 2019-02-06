@@ -1,4 +1,4 @@
-Implement a toy symmetric cryptosystem based on the following method.
+//Implement a toy symmetric cryptosystem based on XOR cipher
 
 a. Keys are 16-bit randomly generated values.
 
